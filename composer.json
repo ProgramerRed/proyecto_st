@@ -1,0 +1,18 @@
+{
+    "name": "user/proyecto_st",
+    "description": "Proyecto_Uptaeb",
+    "autoload": {
+        "psr-4": {
+            "User\\ProyectoSt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "programerred",
+            "email": "danielarturo2112@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
+
